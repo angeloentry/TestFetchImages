@@ -1,0 +1,6 @@
+framework module Pods_TestFetchImages {
+  umbrella header "Pods-TestFetchImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
